@@ -18,4 +18,3 @@ Additionally, the command:
 
 python2 SCoNDT.py -h
 
-will provide information on how to use the tool.
