@@ -1,6 +1,8 @@
 # Memory Samples
 To access the memory samples that you can try SCoNDT on mentioned in the paper, you can use this publicly accessible link:
 
+[Download Memory Samples](https://lsumail2-my.sharepoint.com/:f:/g/personal/aalsh25_lsu_edu/EsJYUC6JbOtAk28MXr-DiZMBDOwKTfEunTJ0yzby3pLhhA?e=8JJZw0)
+
 
 # SCoNDT: SDN Controller Network Discovery Tool
 
